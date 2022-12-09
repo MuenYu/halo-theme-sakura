@@ -9,6 +9,11 @@
   <a href="https://lixingyong.com">预览</a> | <a href="#安装主题">安装</a> | <a href="https://lixingyong.com/2021/01/05/halo%E4%B8%BB%E9%A2%98sakura%E9%A3%9F%E7%94%A8%E8%AF%B4%E6%98%8E">使用文档</a> | <a href="https://lixingyong.com/s/halo-theme-sakure">更新日志</a>
 </p>
 
+## 😶 注意！！
+目前所在的 [Master 分支版本](https://github.com/LIlGG/halo-theme-sakura/tree/master) 为基于 [Halo 1.x](https://docs.halo.run/1.6/) 的主题版本，并不支持 Halo 2.x 版本。若后端使用最新的 [Halo 2.x](https://docs.halo.run) ，则可以前往 [Next 分支](https://github.com/LIlGG/halo-theme-sakura/tree/next) 获取支持 Halo 2.x 版本的主题
+
+此版本将会持续进行 BUG 方面的修复
+
 ## 🧐 说明
 该主题的基础版为 [halo-theme-siren](https://github.com/halo-dev/halo-theme-siren),非常感谢将基础版主题移植过来，给了我后续补充内容的条件。
 
